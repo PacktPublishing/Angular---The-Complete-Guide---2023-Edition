@@ -1,0 +1,6 @@
+Useful Resources and Links
+
+
+NgModules: https://angular.io/guide/ngmodules
+
+NgModules FAQ: https://angular.io/guide/ngmodule-faq

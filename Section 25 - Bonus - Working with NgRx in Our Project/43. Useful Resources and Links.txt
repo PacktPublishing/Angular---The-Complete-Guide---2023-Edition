@@ -1,0 +1,4 @@
+Useful Resources and Links
+
+
+Official Docs - NgRx: https://ngrx.io

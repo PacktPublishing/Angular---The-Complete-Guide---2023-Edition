@@ -1,0 +1,7 @@
+Useful Resources and Links
+
+Communicating with Backend Services using HTTP: https://angular.io/guide/http
+
+3. Building a REST API: https://academind.com/tutorials/building-a-restful-api-with-nodejs
+
+3. Securing JS code: https://academind.com/tutorials/hide-javascript-code

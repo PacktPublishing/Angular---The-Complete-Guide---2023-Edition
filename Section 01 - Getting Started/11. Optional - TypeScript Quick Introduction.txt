@@ -1,0 +1,4 @@
+Optional: TypeScript Quick Introduction
+At the end of this course, you also find a "TypeScript Introduction" section which is 100% optional. You can jump to this section now or take a look at it at a later point of time, in case you want to get a quick TypeScript summary.
+
+I will also introduce and explain key TypeScript concepts as we start using them throughout this course though, hence this section is really just meant to be a "backup section".

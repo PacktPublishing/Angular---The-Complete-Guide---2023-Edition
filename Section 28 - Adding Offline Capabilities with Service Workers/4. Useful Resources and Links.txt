@@ -1,0 +1,5 @@
+Useful Resources and Links
+
+Official Angular Service Worker Docs: https://angular.io/guide/service-worker-intro
+
+Academind Resources on PWAs: https://academind.com/tutorials/angular-pwa-service-worker-tutorial

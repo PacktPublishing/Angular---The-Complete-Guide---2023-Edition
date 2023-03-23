@@ -1,0 +1,3 @@
+Useful Resources and Links
+
+Learn more about NestJS: https://academind.com/learn/node-js/nestjs-introduction/

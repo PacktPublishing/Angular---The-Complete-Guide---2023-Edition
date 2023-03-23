@@ -10,7 +10,7 @@ The course features TypeScript, the main language used by the official Angular t
 
 By the end of the course, you will have a deep understanding of how to create Angular applications, including modules, directives, components, databinding, routing, HTTP access, dependency injection, and more. You will be well-equipped to build awesome, reactive web apps with Angular 12 and quickly establish yourself as a front-end developer. 
 
-##For the 2021 edition of the course
+## For the 2021 edition of the course
 Refer to this [GitHub repo](https://github.com/PacktPublishing/Angular---The-Complete-Guide-2021-Edition)
 
 ## What You Will Learn:

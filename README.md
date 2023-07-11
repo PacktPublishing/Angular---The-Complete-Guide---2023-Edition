@@ -1,6 +1,10 @@
 # Angular - The Complete Guide [2023 Edition]
 ### _Master Angular (formerly “Angular 2”) and build awesome, reactive web apps with the successor of Angular.js_
 
+## Course Update Note
+<li>March 2023: Section 24 (Standalone Components) and Section 33 (Bonus: TypeScript Introduction (for Angular 2 Usage)) are newlly added to the course.</li>
+<li>July 2023: Section 25 (Angular Signals) is added to the course.
+
 ## Course Description
 If you are looking to become a proficient Angular developer and build modern, responsive, and scalable web applications, then Angular - The Complete Guide (2023 Edition) is the course for you! This comprehensive course starts from scratch, so no prior Angular 1 or 2+ knowledge is required. 
 

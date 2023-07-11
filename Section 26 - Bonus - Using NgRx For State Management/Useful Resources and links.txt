@@ -1,0 +1,3 @@
+Useful Resources and links
+
+Official Docs: https://ngrx.io
